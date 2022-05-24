@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$Objectid": "628c6e916f02cb55a1e739b8"
+  },
+  "title": "Fight Club",
+  "writer": "Chuck Palahniuko",
+  "year": 1999,
+  "actors": [
+    "Brad Pitt",
+    "Edward Norton"
+  ]
+},{
+  "_id": {
+    "$Ojectid": "628c72836f02cb55a1e739ba"
+  },
+  "title": "Inglorious Basterds",
+  "writer": "Quentin Tarantino",
+  "year": 2009,
+  "actors": [
+    "Brad Pitt",
+    "Diane Kruger",
+    "Eli Roth"
+  ]
+},{
+  "_id": {
+    "$Objectid": "628c72836f02cb55a1e739bb"
+  },
+  "title": "The Hobbit: An Unexpected Journey",
+  "writer": "J.R.R. Tolkein",
+  "year": 2012,
+  "franchise": "The Hobbit",
+  "synopsis": "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited gropu of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug."
+},{
+  "_id": {
+    "$Objectid": "628c731a6f02cb55a1e739bd"
+  },
+  "title": "Pulp Fiction",
+  "writer": "Quentin Tarantino",
+  "year": 1994,
+  "actors": [
+    "John Travolta",
+    "Uma Thurman",
+    [
+      "Samuel L.Jackson"
+    ]
+  ]
+},{
+  "_id": {
+    "$Objectid": "628c76796f02cb55a1e739be"
+  },
+  "title": "The Hobbit: The Battle of the Five Armies",
+  "writer": "J.R.R. Tolkein",
+  "year": 2012,
+  "franchise": "The Hobbit",
+  "synopsis": "Bolbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain form into the hands of a rising darkness."
+},{
+  "_id": {
+    "$Objectid": "628c76da6f02cb55a1e739bf"
+  },
+  "title": "Pee Wee Herman's Big Adventure"
+},{
+  "_id": {
+    "$Objectid": "628c76f86f02cb55a1e739c0"
+  },
+  "title": "Avatar"
+},{
+  "_id": {
+    "$Objectid": "628c96da83699ff5a1bc2189"
+  },
+  "title": "The Hobbit: The Desolation of Smaug",
+  "writer": "J.R.R. Tolkein",
+  "year": 2013,
+  "franchise": "The Hobbit",
+  "synopsis": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, theirhomeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring."
+}]
